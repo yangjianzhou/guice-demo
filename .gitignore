@@ -1,0 +1,26 @@
+.DS_Store
+.gradle
+/bin/
+*/bin/
+/build
+*/build/
+**/logs/**/*.log
+*/out/
+*/metastore_db/
+/target/
+*/target/
+**/out/**/*.class
+**/derby.log
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.swp
+
+~                                       
